@@ -1,1 +1,1 @@
-# Amazon-clone
+# Netflix-clone
